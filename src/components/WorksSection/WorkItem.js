@@ -61,8 +61,8 @@ const WorkItemGallery = w =>
     <div className='mb4'>
       <Carousel>
         {w.imgs.map((img, i) =>
-          <div className='ba b--light-gray'>
-            <img className='db' key={i} src={img.url} alt={img.alt} />
+          <div key={i} className='ba b--light-gray'>
+            <img className='db' src={img.url} alt={img.alt} />
           </div>)}
       </Carousel>
     </div>
