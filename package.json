@@ -1,0 +1,13 @@
+{
+  "name": "chrisregner.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "http://github.com/chrisregner/chrisregner.github.io",
+  "author": "Christopher Regner <dev@chrisregner.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.19.12",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
