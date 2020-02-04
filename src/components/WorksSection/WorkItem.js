@@ -58,10 +58,12 @@ const WorkItemNegativeMargin = w =>
 
 const WorkItemGallery = w =>
   <li className='mb5 pb3'>
-    <div className='ba b--light-gray mb4'>
+    <div className='mb4'>
       <Carousel>
         {w.imgs.map((img, i) =>
-          <img className='db' key={i} src={img.url} alt={img.alt} />)}
+          <div className='ba b--light-gray'>
+            <img className='db' key={i} src={img.url} alt={img.alt} />
+          </div>)}
       </Carousel>
     </div>
     <div>
