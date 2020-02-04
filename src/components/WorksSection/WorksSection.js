@@ -34,6 +34,10 @@ const query = graphql`
             url
             alt
           }
+          imgs {
+            url
+            alt
+          }
         }
       }
     }
