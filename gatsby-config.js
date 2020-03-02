@@ -92,7 +92,7 @@ module.exports = {
         demo: 'https://chrisregner.github.io/plans-and-journals',
         imgs: [],
         img: {
-          url: 'https://chrisregner.github.io/img/plans-and-journals.png',
+          url: '/img/plans-and-journals.png',
           alt: 'Plans and Journals',
         },
       },
@@ -105,7 +105,7 @@ module.exports = {
         demo: 'https://chrisregner.github.io/daily-routines-tracker',
         imgs: [],
         img: {
-          url: 'https://chrisregner.github.io/img/daily-routines-tracker.png',
+          url: '/img/daily-routines-tracker.png',
           alt: 'Daily Routines Tracker',
         },
       },
