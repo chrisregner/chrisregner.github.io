@@ -6,7 +6,7 @@
   "author": "Christopher Regner <dev@chrisregner.com>",
   "license": "MIT",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
     "gatsby": "^2.19.12",
