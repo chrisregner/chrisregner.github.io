@@ -5,6 +5,9 @@
   "repository": "http://github.com/chrisregner/chrisregner.github.io",
   "author": "Christopher Regner <dev@chrisregner.com>",
   "license": "MIT",
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public"
+  },
   "dependencies": {
     "gatsby": "^2.19.12",
     "gh-pages": "^2.2.0",
