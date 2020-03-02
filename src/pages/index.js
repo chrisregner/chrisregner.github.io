@@ -17,7 +17,7 @@ const IndexPage = () =>
       <section className='mid-gray f7 tc ttl lh-copy'>
         Designed and developed by Christopher Regner.
         {' '}Built&nbsp;with&nbsp;<a href='http://tachyons.io' target='_blank' rel='noopener noreferrer' className='mid-gray'>Tachyons</a>
-        {' '}and&nbsp;<a href='https://www.gatsbyjs.org/' target='_blank' rel='noopener noreferrer' className='mid-gray'>GatsbyJS</a>.
+        &nbsp;and&nbsp;<a href='https://www.gatsbyjs.org/' target='_blank' rel='noopener noreferrer' className='mid-gray'>GatsbyJS</a>.
       </section>
     </footer>
 
