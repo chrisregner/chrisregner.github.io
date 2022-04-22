@@ -43,7 +43,7 @@ const IntroSection = () =>
       <p className='f5 mb4 tj'>Chris considers himself a conscientious and perfectionist professional, taking quality into the heart. He finds pleasure working on projects involving technologies and areas that he is yet to learn or master.</p>
 
       <p className='f5 tj'>
-        He is <strong>currently looking for freelance projects</strong>, preferably short-term (less than 6 months).
+        He thinks his current boss is pretty cool. He’s <strong>not looking for new projects at the moment</strong>.
       </p>
     </article>
 
